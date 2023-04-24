@@ -1,0 +1,28 @@
+.cart-info {
+  text-align: left;
+  padding-left: 20px;
+  padding-top: 30px;
+  margin-top: 30px;
+  position: fixed;
+  top: 0;
+}
+
+.clear-cart {
+  color: white;
+  background-color: rgb(236, 123, 78);
+  border: 0;
+  border-radius: 6px;
+  padding: 12px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 19px;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.clear-cart:hover {
+  cursor: pointer;
+}
